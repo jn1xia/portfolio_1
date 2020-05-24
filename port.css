@@ -445,6 +445,7 @@ to {
   top: 177px;
   animation-name: example_1;
   animation-duration: 4s;
+  display:none;
 
 }
 
