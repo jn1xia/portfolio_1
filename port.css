@@ -1,5 +1,5 @@
 .img_1 {
-    position: relative;
+    position: absolute;
     max-width: 258px;
     max-height: 171.5px;
     left: 152px;
@@ -10,7 +10,7 @@
 
 
 .img_2 {
-    position: relative;
+    position: absolute;
     max-width: 304px;
     max-height: 201.5px;
     left: 126px;
@@ -20,7 +20,7 @@
   }
 
 .img_3 {
-    position: relative;
+    position: absolute;
     max-width: 329px;
     max-height: 218.5px;
     left: 791px;
@@ -30,7 +30,7 @@
   }
 
 .img_4 {
-    position: relative;
+    position: absolute;
     max-width: 227px;
     max-height: 150.5px;
     left: 1352px;
@@ -40,7 +40,7 @@
   }
 
 .img_5 {
-    position: relative;
+    position: absolute;
     max-width: 243px;
     max-height: 161.5px;
     left: 1481px;
@@ -50,7 +50,7 @@
   }
 
 .img_6 {
-    position: relative;
+    position: absolute;
     max-width: 329px;
     max-height: 218.5px;
     left: 1525.75px;
@@ -62,7 +62,7 @@
   }
 
 .img_7 {
-    position: relative;
+    position: absolute;
     max-width: 161px;
     max-height: 106.5px;
     left: 1129px;
@@ -73,7 +73,7 @@
   }
 
 .img_8 {
-    position: relative;
+    position: absolute;
     max-width: 161px;
     max-height: 106.5px;
     left: 963px;
@@ -83,7 +83,7 @@
   }
 
 .img_9 {
-    position: relative;
+    position: absolute;
     max-width: 161px;
     max-height: 106.5px;
     left: 797px;
@@ -93,7 +93,7 @@
   }
 
 .img_10 {
-    position: relative;
+    position: absolute;
     max-width: 161px;
     max-height: 106.5px;
     left: 631px;
@@ -108,7 +108,7 @@
 
 
 .name{
-    position: relative;
+    position: absolute;
     left: 569px;
     top: 383px;
     font-size: 200px;
@@ -117,41 +117,41 @@
 }
 
 .shoots{
-    position: relative;
+    position: absolute;
     left: 727px;
     top: 616px;
     font-size: 45px;
 }
 
 .prof_jev{
-    position: relative;
+    position: absolute;
     left: 39px;
     top: 958px;
     font-size: 30px;
 }
 
 .email{
-    position: relative;
+    position: absolute;
     left: 39px;
     top: 958px;
 }
 
 .sosmed{
-    position: relative;
+    position: absolute;
     left: 1662px;
     top: 996px;
     font-size: 40px;
 }
 
 .home{
-    position: relative;
+    position: absolute;
     left: 1601px;
     top: 56px;
     font-size: 32px;
 }
 
 .profile{
-    position: relative;
+    position: absolute;
     left: 1718px;
     top: 56px;
     font-size: 32px;
@@ -164,7 +164,7 @@ body{
 
 .coordinate{
     transform: rotate(270deg);
-    position: relative;
+    position: absolute;
     left: 300.5px;
     top: 470.5px;
     font-size: 40px;
@@ -172,27 +172,27 @@ body{
 }
 
 .about_img{
-    position: relative;
+    position: absolute;
     left: 1293px;
     top: 167px;
 }
 
 .about_me{
-    position: relative;
+    position: absolute;
     left: 131px;
     top: 226px;
     font-size: 80px;
 }
 
 .line_1{
-    position: relative;
+    position: absolute;
     left: 132px;
     top: 363px;
     font-size: 40px;
 }
 
 .img_1_about{
-    position: relative;
+    position: absolute;
     max-width: 756px;
     max-height: 504px;
     left: 1293px;
@@ -202,7 +202,7 @@ body{
 }
 
 .img_2_about{
-  position: relative;
+  position: absolute;
   max-width: 756px;
   max-height: 504px;
   left: 1293px;
@@ -211,7 +211,7 @@ body{
 }
 
 .img_3_about{
-  position: relative;
+  position: absolute;
   max-width: 756px;
   max-height: 504px;
   left: 1293px;
@@ -220,7 +220,7 @@ body{
 }
 
 .img_4_about{
-  position: relative;
+  position: absolute;
   max-width: 756px;
   max-height: 504px;
   left: 1293px;
@@ -229,7 +229,7 @@ body{
 }
 
 .img_5_about{
-  position: relative;
+  position: absolute;
   max-width: 756px;
   max-height: 504px;
   left: 1293px;
@@ -238,7 +238,7 @@ body{
 }
 
 .img_6_about{
-  position: relative;
+  position: absolute;
   max-width: 756px;
   max-height: 504px;
   left: 1293px;
@@ -247,7 +247,7 @@ body{
 }
 
 .img_7_about{
-  position: relative;
+  position: absolute;
   max-width: 756px;
   max-height: 504px;
   left: 1293px;
@@ -256,7 +256,7 @@ body{
 }
 
 .img_8_about{
-  position: relative;
+  position: absolute;
   max-width: 756px;
   max-height: 504px;
   left: 1293px;
@@ -265,7 +265,7 @@ body{
 }
 
 .img_9_about{
-  position: relative;
+  position: absolute;
   max-width: 756px;
   max-height: 504px;
   left: 1293px;
@@ -274,7 +274,7 @@ body{
 }
 
 .img_10_about{
-  position: relative;
+  position: absolute;
   max-width: 756px;
   max-height: 504px;
   left: 1293px;
@@ -359,14 +359,14 @@ div.slide-left p {
 @media (max-width: 1200px) { 
     
   .name{
-    position: relative;
+    position: absolute;
     left: 90px;
     top: 132px;
     font-size: 50px;
   }
 
   .shoots{
-    position: relative;
+    position: absolute;
     left: 129px;
     top:195px;
     font-size: 18px;;
@@ -374,7 +374,7 @@ div.slide-left p {
 
 
   .img_1 {
-    position: relative;
+    position: absolute;
     max-width: 93px;
     max-height: 61.5px;
     left: 239px;
@@ -385,7 +385,7 @@ div.slide-left p {
 
 
 .img_2 {
-    position: relative;
+    position: absolute;
     max-width: 93px;
     max-height: 61.5px;
     left: 126px;
@@ -395,7 +395,7 @@ div.slide-left p {
   }
 
 .img_3 {
-    position: relative;
+    position: absolute;
     max-width: 136px;
     max-height: 90.5px;
     left: 197px;
@@ -405,7 +405,7 @@ div.slide-left p {
   }
 
 .img_4 {
-    position: relative;
+    position: absolute;
     max-width: 93px;
     max-height: 61.5px;
     left: 141px;
@@ -415,7 +415,7 @@ div.slide-left p {
   }
 
 .img_5 {
-    position: relative;
+    position: absolute;
     max-width: 93px;
     max-height: 61.5px;
     left: 42px;
@@ -425,7 +425,7 @@ div.slide-left p {
   }
 
 .img_6 {
-    position: relative;
+    position: absolute;
     max-width: 143px;
     max-height: 94.5px;
     left: 53.75px;
@@ -437,7 +437,7 @@ div.slide-left p {
   }
 
 .img_7 {
-    position: relative;
+    position: absolute;
     max-width: 93px;
     max-height: 61.5px;
     left: 1129px;
@@ -448,7 +448,7 @@ div.slide-left p {
   }
 
 .img_8 {
-    position: relative;
+    position: absolute;
     max-width: 93px;
     max-height: 61.5px;
     left: 42.32px;
@@ -458,7 +458,7 @@ div.slide-left p {
   }
 
 .img_9 {
-    position: relative;
+    position: absolute;
     max-width: 93px;
     max-height: 61.5px;
     left: 140.66px;
@@ -468,7 +468,7 @@ div.slide-left p {
   }
 
 .img_10 {
-    position: relative;
+    position: absolute;
     max-width: 93px;
     max-height: 61.5px;
     left: 239px;
@@ -478,7 +478,7 @@ div.slide-left p {
   }
 
   .prof_jev{
-    position: relative;
+    position: absolute;
     left: 74px;
     top: 631px;
     font-size: 18px;
@@ -486,7 +486,7 @@ div.slide-left p {
 
 .coordinate{
   transform: rotate(0deg);
-  position: relative;
+  position: absolute;
   left: 169.5px;
   top: 426.5px;
   font-size: 18px;
