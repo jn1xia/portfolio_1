@@ -497,4 +497,18 @@ top: 426.5px;
 font-size: 18px;
 
 }
+.home{
+  position: absolute;
+  left: -5000px;
+  top: 56px;
+  font-size: 32px;
+  
+}
+
+.profile{
+  position: absolute;
+  left: 1718px;
+  top: 56px;
+  font-size: 32px;
+}
 } 
