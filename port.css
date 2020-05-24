@@ -356,7 +356,10 @@ to {
 #secondary { width:100%; margin:0; border:none; }
 }
 
-@media (max-width: 1200px) { 
+@media only screen 
+    and (device-width: 414px) 
+    and (device-height: 896px) 
+    and (-webkit-device-pixel-ratio: 3) { 
   
 .name{
   position: relative;
