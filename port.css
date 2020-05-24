@@ -392,6 +392,7 @@ to {
   top: 592px;
   animation-name: example_1;
   animation-duration: 2s;
+  display:none;
 }
 
 .img_3 {
