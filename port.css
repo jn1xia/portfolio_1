@@ -359,7 +359,7 @@ div.slide-left p {
 @media (max-width: 1200px) { 
     
   .name{
-    position: absolute;
+    position: relative;
     left: 90px;
     top: 132px;
     font-size: 50px;
