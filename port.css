@@ -356,9 +356,7 @@ to {
 #secondary { width:100%; margin:0; border:none; }
 }
 
-@media only screen 
-    and (max-width: 1200px)  
-     { 
+@media (max-width: 1200px) { 
   
 .name{
   position: relative;
@@ -495,19 +493,5 @@ left: 169.5px;
 top: 426.5px;
 font-size: 18px;
 
-}
-.home{
-  position: absolute;
-  left: -5000px;
-  top: 56px;
-  font-size: 32px;
-  
-}
-
-.profile{
-  position: absolute;
-  left: 1718px;
-  top: 56px;
-  font-size: 32px;
 }
 } 
