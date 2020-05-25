@@ -447,6 +447,7 @@ to {
   top: 177px;
   animation-name: example_1;
   animation-duration: 4s;
+  display: none;
 
 }
 
@@ -478,7 +479,7 @@ to {
   top: 259px;
   animation-name: example_1;
   animation-duration: 4s;
-  display: none;
+  
 }
 
 .prof_jev{
@@ -502,6 +503,7 @@ left: 169.5px;
 top: 426.5px;
 font-size: 18px;
 
-}
+  }
+
 } 
 
