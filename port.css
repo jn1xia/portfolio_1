@@ -478,13 +478,20 @@ to {
   top: 259px;
   animation-name: example_1;
   animation-duration: 4s;
-  display:none;
+  display: none;
 }
 
 .prof_jev{
   position: absolute;
   left: 74px;
   top: 631px;
+  font-size: 18px;
+}
+
+.sosmed{
+  position: absolute;
+  left : 148px;
+  top : 728px;
   font-size: 18px;
 }
 
