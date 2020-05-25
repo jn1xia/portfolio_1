@@ -394,6 +394,7 @@ to {
   top: 592px;
   animation-name: example_1;
   animation-duration: 2s;
+  display: none;
 }
 
 .img_3 {
@@ -477,6 +478,7 @@ to {
   top: 259px;
   animation-name: example_1;
   animation-duration: 4s;
+  display:none;
 }
 
 .prof_jev{
