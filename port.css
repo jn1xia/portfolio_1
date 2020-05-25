@@ -359,6 +359,10 @@ to {
 }
 
 @media (max-width: 1200px) { 
+
+.nav-link{
+  font-size: 18px;
+}
   
 .name{
   position: relative;
@@ -479,7 +483,6 @@ to {
   top: 259px;
   animation-name: example_1;
   animation-duration: 4s;
-  
 }
 
 .prof_jev{
