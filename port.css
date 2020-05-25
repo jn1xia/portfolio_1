@@ -103,7 +103,9 @@
 }
 
 
-
+.nav-link{
+  font-size: 32px;
+}
 
 
 
@@ -494,6 +496,3 @@ font-size: 18px;
 }
 } 
 
-.nav-link{
-  font-size: 32px;
-}
