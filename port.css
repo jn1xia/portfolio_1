@@ -102,13 +102,14 @@
   animation-duration: 4s;
 }
 
+.centerized{
+}
+
 
 .nav-link{
   font-size: 32px;
 }
 
-.centerized{
-}
 
 
 
@@ -405,6 +406,12 @@ and (max-device-width : 667px) {
   padding: 10px;
   
 }
+
+.centerized{
+  width: 100px;
+ height: 100px;
+ margin: 0 auto;
+}
 .nav-link{
   font-size: 18px;
 }
@@ -413,11 +420,7 @@ and (max-device-width : 667px) {
   max-width: 375px;
 }
 
-.centerized{
-  width: 100px;
- height: 100px;
- margin: 0 auto;
-}
+
   
 .name{
   position: absolute;
