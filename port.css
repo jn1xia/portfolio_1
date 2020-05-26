@@ -534,6 +534,8 @@ and (max-device-width : 667px) {
   animation-duration: 4s;
 }
 
+
+
 .prof_jev{
   position: absolute;
   left: 74px;
@@ -556,11 +558,13 @@ top: 371.5px;
 font-size: 15px;
 
   }
-
-} 
-
+  
 .centerized{
   position: absolute;
   left: 36px;
   top: 35.5px;
-}
+}  
+
+
+} 
+
