@@ -354,7 +354,9 @@ to {
 }
 
 
-@media (max-width: 600px) { 
+@media only screen 
+and (min-device-width : 375px) 
+and (max-device-width : 667px) { 
   @keyframes example_1 {
     0%   {left:141px; top:326px;}
     25%  {left:141px; top:326px;}
