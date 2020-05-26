@@ -559,3 +559,8 @@ font-size: 15px;
 
 } 
 
+.centerized{
+  position: absolute;
+  left: 36px;
+  top: 35.5px;
+}
