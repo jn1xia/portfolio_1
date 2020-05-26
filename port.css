@@ -353,10 +353,22 @@ to {
   text-align: center;
 }
 
+.centerized{margin: auto;
+  width: 60%;
+  padding: 10px;
+  text-align: center;
+}
+
 
 @media only screen 
 and (min-device-width : 375px) 
 and (max-device-width : 667px) { 
+  .centerized{
+    position: absolute;
+    left: 36px;
+    top: 35.5px;
+  }  
+
   @keyframes example_1 {
     0%   {left:141px; top:326px;}
     25%  {left:141px; top:326px;}
@@ -558,12 +570,8 @@ top: 371.5px;
 font-size: 15px;
 
   }
-  
-.centerized{
-  position: absolute;
-  left: 36px;
-  top: 35.5px;
-}  
+
+
 
 
 } 
