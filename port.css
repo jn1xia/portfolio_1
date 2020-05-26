@@ -349,6 +349,46 @@ to {
 
 
 @media (max-width: 600px) { 
+  @keyframes example_1 {
+    0%   {left:141px; top:326px;}
+    25%  {left:141px; top:326px;}
+    }
+    @keyframes example_2 {
+    0%   {left:141px; top:326px;}
+    25%  {left:141px; top:326px;}
+    }
+    @keyframes example_3 {
+    0%   {left:141px; top:326px;}
+    25%  {left:141px; top:326px;}
+    }
+    @keyframes example_4 {
+    0%   {left:141px; top:326px;}
+    25%  {left:141px; top:326px;}
+    }
+    @keyframes example_5 {
+    0%   {left:141px; top:326px;}
+    25%  {left:141px; top:326px;}
+    }
+    @keyframes example_6 {
+    0%   {left:141px; top:326px;}
+    25%  {left:141px; top:326px;}
+    }
+    @keyframes example_7 {
+    0%   {left:141px; top:326px;}
+    25%  {left:141px; top:326px;}
+    }
+    @keyframes example_8 {
+    0%   {left:141px; top:326px;}
+    25%  {left:141px; top:326px;}
+    }
+    @keyframes example_9 {
+    0%   {left:141px; top:326px;}
+    25%  {left:141px; top:326px;}
+    }
+    @keyframes example_10 {
+    0%   {left:141px; top:326px;}
+    25%  {left:141px; top:326px;}
+    }
 
 .nav-link{
   font-size: 18px;
