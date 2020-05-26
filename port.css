@@ -346,6 +346,12 @@ to {
 }
 }
 
+.center {
+  margin: auto;
+  width: 60%;
+  padding: 10px;
+  text-align: center;
+}
 
 
 @media (max-width: 600px) { 
@@ -390,6 +396,13 @@ to {
     25%  {left:141px; top:326px;}
     }
 
+
+.center {
+  margin: auto;
+  width: 60%;
+  padding: 10px;
+  text-align: center;
+}
 .nav-link{
   font-size: 18px;
 }
@@ -544,9 +557,3 @@ font-size: 18px;
 
 } 
 
-.center {
-  margin: auto;
-  width: 60%;
-  padding: 10px;
-  text-align: center;
-}
