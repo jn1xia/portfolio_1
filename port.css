@@ -393,6 +393,10 @@ to {
 .nav-link{
   font-size: 18px;
 }
+
+.navbar .navbar-expand-sm .navbar-light{
+  max-width: 100%;
+}
   
 .name{
   position: absolute;
