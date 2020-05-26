@@ -401,9 +401,7 @@ and (max-device-width : 667px) {
     25%  {left:141px; top:326px;}
     }
 
-.navbar-brand{
-  font-size: 18px;
-}   
+
 
 .center {
   margin: auto;
@@ -417,12 +415,8 @@ and (max-device-width : 667px) {
  height: 100px;
  margin: 0 auto;
 }
-.nav-link{
-  font-size: 18px;
-}
 
 
-  
 .name{
   position: absolute;
   left: 84px;
@@ -569,7 +563,13 @@ font-size: 15px;
 
   }
 
-
+.navbar-brand{
+  font-size: 18px;
+}   
+  
+.nav-link{
+  font-size: 18px;
+}
 
 
 } 
