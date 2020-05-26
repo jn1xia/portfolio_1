@@ -183,6 +183,7 @@ body{
   left: 300.5px;
   top: 470.5px;
   font-size: 40px;
+  color:#FFFFFF;
 
 }
 
@@ -297,6 +298,13 @@ top: 350px;
 
 }
   
+.navbar-brand{
+  color:#FFFFFF;
+}
+
+.nav-link{
+  color:#FFFFFF;
+}
 
 @keyframes example_1 {
 0%   {left:569px; top:383px;}
