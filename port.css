@@ -107,6 +107,9 @@
   font-size: 32px;
 }
 
+.centerized{
+}
+
 
 
 .name{
@@ -346,25 +349,13 @@ to {
 }
 }
 
-.center {
-  margin: auto;
-  width: 60%;
-  padding: 10px;
-  text-align: center;
-}
 
-.centerized{
-}
 
 
 @media only screen 
 and (min-device-width : 375px) 
 and (max-device-width : 667px) { 
-  .centerized{
-   width: 100px;
-  height: 100px;
-  margin: 0 auto;
-}
+  
 
   @keyframes example_1 {
     0%   {left:141px; top:326px;}
@@ -420,6 +411,12 @@ and (max-device-width : 667px) {
 
 .navbar .navbar-expand-sm .navbar-light{
   max-width: 375px;
+}
+
+.centerized{
+  width: 100px;
+ height: 100px;
+ margin: 0 auto;
 }
   
 .name{
