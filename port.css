@@ -120,6 +120,7 @@
   left: 569px;
   top: 383px;
   font-size: 200px;
+  color:#FFFFFF;
   
 
 }
@@ -129,6 +130,7 @@
   left: 727px;
   top: 616px;
   font-size: 45px;
+  color:#FFFFFF;
 }
 
 .prof_jev{
@@ -136,12 +138,14 @@
   left: 39px;
   top: 958px;
   font-size: 30px;
+  color:#FFFFFF;
 }
 
 .email{
   position: absolute;
   left: 39px;
   top: 958px;
+  color:#FFFFFF;
 }
 
 .sosmed{
@@ -149,6 +153,7 @@
   left: 1662px;
   top: 996px;
   font-size: 40px;
+  color:#FFFFFF;
 }
 
 .home{
@@ -156,6 +161,7 @@
   left: 1601px;
   top: 56px;
   font-size: 32px;
+  color:#FFFFFF;
 }
 
 .profile{
@@ -163,6 +169,7 @@
   left: 1718px;
   top: 56px;
   font-size: 32px;
+  color:#FFFFFF;
 }
 
 body{
