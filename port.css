@@ -409,8 +409,8 @@ and (max-device-width : 667px) {
   font-size: 18px;
 }
 
-.navbar navbar-expand-sm navbar-light{
-  max-width: 75%;
+.navbar .navbar-expand-sm .navbar-light{
+  max-width: 375px;
 }
   
 .name{
