@@ -1,3 +1,11 @@
+
+
+
+@import "normalize";
+@import "compass";
+@import "susy";
+
+
 .img_1 {
   position: absolute;
   max-width: 258px;
@@ -591,3 +599,101 @@ font-size: 15px;
 
 } 
 
+/**
+ - Styles for AG grids & Container
+ */
+
+ .container {
+  background-color: #fbeecb;
+}
+
+.ag1, .ag3 {
+  background-color: #71dad2;
+}
+
+.ag2 {
+  background-color: #fae7b3;
+}
+
+.ag4,.ag5,.ag8,.ag9 {
+  background-color: #ee9e9c;
+}
+
+.ag6 {
+  background-color: #f09671;
+}
+
+.ag7 {
+  background-color: #f6d784;
+}
+
+.ag10 {
+  background-color: #ea9fc3;
+}
+
+/**
+ - Text Styles
+ */
+h2 {
+  text-align: center;
+  font-size: 1rem;
+  font-weight: normal;
+  padding-top: 1.8rem;
+  padding-bottom: 1.8rem;
+}
+
+*, *:before, *:after {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box; 
+}
+
+.wrap {
+  max-width: 1120px; 
+}
+
+/* Clearfix for floated children */
+.wrap:after {
+  content: &quot; &quot;;
+  clear: both; 
+  display: block;
+}
+
+.content {
+  float: left; 
+  width: 66.071429%; /* 740px / 1120px */
+  margin-right: 1.6964286%; /* 19px/1120px */
+}
+
+.sidebar {
+  float: right; 
+  width: 32.2321429%; /* 361px / 1120px */
+}
+
+@import "susy"
+
+/* Changing Susy default global settings */
+$susy: (
+  /* Tells Susy to use 12 columns */
+  columns: 12,
+  /* Tells Susy that the container has a max-width of 1120px */
+  container: 1120px,
+  /* Tells Susy to use border-box */
+  global-box-sizing: border-box 
+  );
+
+/* Makes border-box properties */
+@include border-box-sizing;
+
+.wrap {
+  @include container;
+}
+
+.content {
+  @include span(8); 
+}
+
+/* Tells Susy there's 4 columns in the sidebar, and its the last item on the row. */
+.sidebar {
+  @include span(4 last); 
+}
