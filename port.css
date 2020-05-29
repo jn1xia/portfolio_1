@@ -568,7 +568,7 @@ and (max-device-width : 667px) {
   left: 74px;
   top: 631px;
   font-size: 18px;
-  text-align:justify;
+  text-align:center;
 }
 
 .sosmed{
@@ -576,7 +576,7 @@ and (max-device-width : 667px) {
   left : 148px;
   top : 728px;
   font-size: 18px;
-  text-align:justify;
+  text-align:center;
 }
 
 .coordinate{
