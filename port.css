@@ -123,7 +123,7 @@
 }
 
 
-.name{
+.animate__fadeInRight{
   position: absolute;
   left: 569px;
   top: 383px;
@@ -241,7 +241,6 @@ body{
   max-height: 345.5px;
   left: 1291.5px;
   top: 409px;
-  
 
 }
 
@@ -719,3 +718,4 @@ $susy: (
 .sidebar {
   @include span(4 last); 
 }
+
