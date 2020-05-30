@@ -237,10 +237,10 @@ body{
 
 .img_1_about{
   position: absolute;
-  max-width: 756px;
-  max-height: 504px;
-  left: 1293px;
-  top: 350px;
+  max-width: 520px;
+  max-height: 345.5px;
+  left: 1291.5px;
+  top: 409px;
   animation-name: example_1;
 
 }
