@@ -123,7 +123,7 @@
 }
 
 
-.animate__fadeInRight{
+.name{
   position: absolute;
   left: 569px;
   top: 383px;
@@ -719,3 +719,6 @@ $susy: (
   @include span(4 last); 
 }
 
+.animate__animated.animate__fadeInRight {
+  --animate-duration: 5s;
+}
